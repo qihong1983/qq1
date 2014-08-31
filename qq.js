@@ -1,5 +1,6 @@
 //×ªÅÌ³é½±
 //Äã
+//ÄãºÃ»µ
 document.getElementById('#kkk');
 kkkk
 $(function(){
