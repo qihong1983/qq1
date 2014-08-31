@@ -1,4 +1,5 @@
 //ת�̳齱
+document.getElementById('#kkk');
 $(function(){
 	$("#startbtn").rotate({
 			bind:{
