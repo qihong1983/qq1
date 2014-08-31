@@ -1,4 +1,5 @@
 //×ªÅÌ³é½±
+//Äã
 document.getElementById('#kkk');
 kkkk
 $(function(){
